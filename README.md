@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view a live demo over at https://fintech-countries.vercel.app/
+
 ## Getting Started
 
 ### Prerequisites
